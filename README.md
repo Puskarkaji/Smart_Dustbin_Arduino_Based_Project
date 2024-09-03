@@ -1,2 +1,4 @@
 # Smart_Dustbin_Arduino_Based_Project
-Here i uploaded documentation part of smart dustbin (arduino based project
+Here i uploaded documentation part of smart dustbin (arduino based project) Project.
+## About smart dustbin and how actually it works?
+In my Smart Dustbin project, I developed an intelligent waste management solution designed to promote hygiene and efficiency in waste disposal. The smart dustbin uses ultrasonic sensors to detect when someone approaches, automatically opening the lid to minimize contact and reduce the spread of germs. Additionally, the system monitors the dustbin's fill level and sends alerts when it needs to be emptied, optimizing waste collection schedules. I was responsible for the end-to-end development, including hardware integration, sensor calibration, and programming using Arduino and C++. The project successfully demonstrated a practical application of IoT in everyday life, enhancing cleanliness and operational efficiency in public and private spaces.
